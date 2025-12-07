@@ -282,19 +282,6 @@ La aplicación está configurada para trabajar con el índice **biomed-manuals-d
 - ✅ Historial de conversación completo
 - ✅ Flujo unificado: todas las preguntas (texto o voz) aparecen en el mismo chat
 
-## 🚧 Mejoras Futuras
-
-Algunas mejoras que se podrían implementar:
-
-- **Carga de datos desde código**: Script para subir y procesar PDFs automáticamente al índice
-- **Soporte multiidioma**: Detección automática de idioma y respuestas en múltiples idiomas
-- **Filtros avanzados**: Filtrar por modelo, fabricante, tipo de manual desde la UI
-- **Autenticación de usuarios**: Sistema de login para control de acceso
-- **Logging y trazabilidad**: Registro de preguntas, respuestas y métricas de uso
-- **Búsqueda híbrida mejorada**: Integración completa de búsqueda vectorial + texto
-- **Exportación de conversaciones**: Guardar historiales de chat en PDF o texto
-- **Mejoras de voz**: Selección de voces desde la UI, ajuste de velocidad de habla
-
 ## 📝 Notas Técnicas
 
 - La aplicación usa **búsqueda por texto** por defecto. El código está preparado para usar búsqueda vectorial si proporcionas embeddings.
@@ -311,7 +298,7 @@ Las contribuciones son bienvenidas. Por favor, abre un issue o pull request si t
 
 ## 📄 Licencia
 
-Este proyecto es una demo educativa. Ajusta la licencia según tus necesidades.
+Este proyecto es una demo educativa.
 
 ---
 
